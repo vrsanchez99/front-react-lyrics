@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
 
-import Tutorial from "./components/tutorial.component";
+
 import AddTutorial from "./components/add-tutorial.component";
 import TutorialsList from "./components/tutorials-list.component";
 
